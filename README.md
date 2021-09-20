@@ -1,9 +1,6 @@
 Banking System
-Basic-Banking-System TSF GRIB BANK
-
-The Sparks Foundation Internship Project:Basic Banking System, This project consist of 10 dummy users.
-
-TECHNOLOGY STACK:
+Basic-Banking-System 
+The Sparks Foundation TSF GRIP Internship Project:Basic Banking System, This project consist of 10 dummy users.
 
 Front-end : HTML, CSS, & Javascript
 
